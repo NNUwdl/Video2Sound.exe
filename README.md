@@ -24,7 +24,7 @@ This software is mainly made by using model moviepy.(this environment is not req
 There are still some problems to be solved.
 For example, after the module TQDM is packaged into an executable program, there will be a display problem in the progress bar, which I have no ability to solve. I hope that some big guy can send me the solution, thank you very much.
 I haven't learned how to use Python forms modules yet, but they may be added in the future.
-
+This program takes up a lot of storage space: over 100 megabyters, I guess because the Pyinstaller package would write all the Python(in my system's default path) models to the program.Later, I will see if we can find a way not to write all the models into the program.
 
 Thank you for using my software.
 
@@ -58,6 +58,7 @@ Thank you for using my software.
 还有一些问题等待解决。
 比如在封装成可执行程序后模块tqdm的进度条部分会出现显示问题，这个我还不会解决，希望有大佬能私信我解决方案，十分感谢。
   还没有学会如何使用python的窗体模块，未来可能会添加。
+  这个程序占用很大的存储空间：大于100M，我猜是因为pyinstaller的装包会把我系统默认路径下python里所有的库都写入程序。后面看看能不能找个方法不把所有的库都写入进程序。
 
 
 感想您使用本软件。
