@@ -1,8 +1,6 @@
 # Video2Sound
 Coding while Learning
 
-中文版在最后
-
 English Version
 
 This is a file using to extract audio from video files.
@@ -29,7 +27,9 @@ I haven't learned how to use Python forms modules yet, but they may be added in 
 
 
 Thank you for using my software.
+
   Author  : NNUwdl
+  
   email   : nnuwxl@gmail.com
 
 
@@ -58,5 +58,7 @@ Thank you for using my software.
 
 
 感想您使用本软件。
+
   作者  : NNUwdl
+  
   邮箱   : nnuwxl@gmail.com
