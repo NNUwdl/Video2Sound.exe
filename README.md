@@ -28,9 +28,11 @@ I haven't learned how to use Python forms modules yet, but they may be added in 
 
 Thank you for using my software.
 
-  Author  : NNUwdl
-  
-  email   : nnuwxl@gmail.com
+@Auther : NNUwdl
+@Email  : nnuwxl@gmail.com
+
+
+
 
 
 中文版(Chinese version)
@@ -59,6 +61,5 @@ Thank you for using my software.
 
 感想您使用本软件。
 
-  作者  : NNUwdl
-  
-  邮箱   : nnuwxl@gmail.com
+@作者 : NNUwdl
+@邮箱 : nnuwxl@gmail.com
